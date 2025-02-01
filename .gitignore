@@ -51,3 +51,6 @@
 
 # Ignore Tailwind configuration
 tailwind.config.js
+
+# Ignore environment variables
+.rbenv-vars
