@@ -34,3 +34,5 @@ end
 
 group :production do
 end
+
+gem "sidekiq", "~> 7.3"
