@@ -24,5 +24,7 @@ module DecidimDambovita
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    #
+    config.hosts << "decidem.cjd.ro"
   end
 end
